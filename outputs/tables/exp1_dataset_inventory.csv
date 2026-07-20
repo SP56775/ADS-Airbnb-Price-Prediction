@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Granularity
+Listings,490,90,One row per listing
+Calendar,178850,5,One row per listing-date
+Reviews,29046,6,One row per review

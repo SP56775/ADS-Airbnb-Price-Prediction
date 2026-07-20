@@ -1,0 +1,8 @@
+Issue,Dataset,Planned_Action
+Missing values,Listings / Calendar / Reviews,Analyze and handle in Experiment 2
+Price stored as text,Listings,Convert price to numeric format
+One-to-many dataset relationships,Calendar and Reviews,Aggregate before merging
+Large calendar dataset,Calendar,Use memory-efficient processing
+High-cardinality categorical variables,Listings,Apply appropriate encoding or feature grouping
+Potential unmatched listing IDs,Calendar and Reviews,Investigate before integration
+Potential target leakage,Calendar,Exclude calendar-derived features that directly reveal the prediction target
