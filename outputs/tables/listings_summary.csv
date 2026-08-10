@@ -1,0 +1,91 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+id,490.0,,,,9.6175488776393e+17,5.800837331935055e+17,2992450.0,6.904914825405268e+17,1.1120669729910661e+18,1.458294607708536e+18,1.7014827372573696e+18
+listing_url,490,490,https://www.airbnb.com/rooms/1701482737257369614,1,,,,,,,
+scrape_id,490.0,,,,20260616211424.0,0.0,20260616211424.0,20260616211424.0,20260616211424.0,20260616211424.0,20260616211424.0
+last_scraped,490,2,2026-06-16,456,,,,,,,
+source,490,2,city scrape,456,,,,,,,
+name,490,489,Large Bedroom in the heart of downtown Albany.,2,,,,,,,
+description,481,420,"Welcome to your cozy Albany retreat! Enjoy a comfortable stay in this well-appointed space, perfect for travelers looking for convenience and relaxation. Your booking includes free parking and a complimentary breakfast to start your day right. Located near shops, restaurants, and downtown Albany, this home offers easy access to local attractions. Whether you’re here for business or leisure, you’ll love the comfort and convenience of this stay. Book now for a relaxing experience!",13,,,,,,,
+neighborhood_overview,0.0,,,,,,,,,,
+picture_url,490,482,https://a0.muscache.com/pictures/miso/Hosting-1158059552251999833/original/7b3e628d-eab2-4de5-ad1c-49658e8fa898.jpeg,4,,,,,,,
+host_id,490.0,,,,6840568713538563.0,1.069623144078336e+17,649068.0,47625981.0,232967878.0,466790114.0,1.6769226754398935e+18
+host_url,490,186,https://www.airbnb.com/users/show/466790114,29,,,,,,,
+host_profile_id,490.0,,,,1.472998320032594e+18,2.8192492503188136e+16,1.4625175831213146e+18,1.463574448322349e+18,1.4682319734252375e+18,1.4697542101026947e+18,1.6769232246724923e+18
+host_profile_url,490,186,https://www.airbnb.com/users/profile/1468113968197472369,29,,,,,,,
+host_name,490,169,⁨Premier Stay Co.⁩,29,,,,,,,
+host_since,0.0,,,,,,,,,,
+hosts_time_as_user_years,490.0,,,,6.751020408163265,3.623831731862087,0.0,3.0,7.0,10.0,15.0
+hosts_time_as_user_months,490.0,,,,6.177551020408163,3.7119034361185217,0.0,3.0,6.0,10.0,11.0
+hosts_time_as_host_years,490.0,,,,4.240816326530612,3.0629335128984403,0.0,2.0,4.0,7.0,13.0
+hosts_time_as_host_months,490.0,,,,6.240816326530612,3.585241183305967,0.0,3.0,7.0,10.0,11.0
+host_location,348,31,"Albany, NY",224,,,,,,,
+host_about,260,95,Hi my name is Scott Guadagnino. I’ve been in the Albany area for 9 years. Went to school in South Carolina. We love hosting and having guests at our Airbnb’s!,21,,,,,,,
+host_response_time,0.0,,,,,,,,,,
+host_response_rate,0.0,,,,,,,,,,
+host_acceptance_rate,0.0,,,,,,,,,,
+host_is_superhost,490,2,f,275,,,,,,,
+host_thumbnail_url,0.0,,,,,,,,,,
+host_picture_url,490,183,https://a0.muscache.com/im/pictures/user/User/original/d58a58c3-8c94-4357-8c03-5a009c75da5e.jpeg?aki_policy=profile_x_medium,29,,,,,,,
+host_neighbourhood,0.0,,,,,,,,,,
+host_listings_count,490.0,,,,31.846938775510203,154.63651899525445,1.0,2.0,6.0,16.0,1658.0
+host_total_listings_count,0.0,,,,,,,,,,
+host_verifications,0.0,,,,,,,,,,
+host_has_profile_pic,490,2,t,466,,,,,,,
+host_identity_verified,490,2,t,488,,,,,,,
+neighbourhood,0.0,,,,,,,,,,
+neighbourhood_cleansed,490,15,SIXTH WARD,117,,,,,,,
+neighbourhood_group_cleansed,0.0,,,,,,,,,,
+latitude,490.0,,,,42.658780574824284,0.010440786306860048,42.63066,42.6527775,42.657354999999995,42.664337678676375,42.7149
+longitude,490.0,,,,-73.77677431067451,0.018189660377699233,-73.87649,-73.78777276365888,-73.77461717629069,-73.7641375,-73.73825
+property_type,490,21,Entire rental unit,255,,,,,,,
+room_type,490,4,Entire home/apt,345,,,,,,,
+accommodates,490.0,,,,3.3959183673469386,2.4682821645910424,1.0,2.0,2.0,4.0,16.0
+bathrooms,445.0,,,,1.246067415730337,0.6292524128269112,0.5,1.0,1.0,1.0,7.0
+bathrooms_text,486,18,1 bath,295,,,,,,,
+bedrooms,378.0,,,,1.8333333333333333,1.2127746209280243,1.0,1.0,1.0,2.0,9.0
+beds,446.0,,,,1.8654708520179373,1.335705218034863,1.0,1.0,1.0,2.0,10.0
+amenities,490,474,"[""Microwave"", ""Waterfront"", ""42 inch TV with premium cable"", ""Long term stays allowed"", ""Wifi"", ""Smoke alarm"", ""Fire extinguisher"", ""Essentials"", ""Hangers"", ""Air conditioning"", ""Carbon monoxide alarm"", ""Iron"", ""Shared gym in building"", ""Coffee maker"", ""Refrigerator"", ""Hair dryer"", ""Cleaning available during stay"", ""Breakfast"", ""Extra pillows and blankets"", ""Dedicated workspace"", ""Self check-in"", ""Room-darkening shades"", ""First aid kit"", ""Bathtub"", ""Bed linens"", ""Heating"", ""Shampoo"", ""EV charger"", ""Building staff"", ""Paid parking on premises""]",8,,,,,,,
+price,458,322,$97.00,7,,,,,,,
+price_quote_checkin_date,468,88,2026-06-16,86,,,,,,,
+price_quote_checkout_date,468,107,2026-06-17,63,,,,,,,
+price_quote_total_price,458.0,,,,594.233711790393,781.2593226173784,34.92,166.0,283.5,625.0,5427.64
+price_quote_price_per_night,458.0,,,,177.1272925764192,157.34891962272687,13.18,90.0,145.66500000000002,209.625,1701.0
+price_quote_raw,468,448,"{""quote"": {""taxes"": null, ""currency"": ""USD"", ""date_match"": null, ""service_fee"": null, ""total_price"": ""217"", ""cleaning_fee"": null, ""is_available"": true, ""discount_amount"": null, ""price_per_night"": ""217"", ""nightly_subtotal"": ""216.82"", ""discounted_subtotal"": ""216.82"", ""raw_price_line_items"": [{""amount"": ""216.82"", ""item_type"": ""nightly_subtotal"", ""description"": ""1 night x $216.82"", ""price_string"": ""$216.82""}, {""amount"": ""216.82"", ""item_type"": ""discounted_subtotal"", ""description"": ""Price after discount"", ""price_string"": ""$216.82""}], ""returned_checkin_date"": null, ""requested_checkin_date"": ""2026-06-16"", ""returned_checkout_date"": null, ""requested_checkout_date"": ""2026-06-17""}}",4,,,,,,,
+minimum_nights,489.0,,,,6.844580777096114,19.880801975026205,1.0,1.0,1.0,3.0,365.0
+maximum_nights,489.0,,,,596.1635991820041,422.6495925687065,4.0,365.0,365.0,1125.0,1125.0
+minimum_minimum_nights,489.0,,,,6.844580777096114,19.880801975026205,1.0,1.0,1.0,3.0,365.0
+maximum_minimum_nights,489.0,,,,9.333333333333334,30.622525549638304,1.0,1.0,2.0,5.0,365.0
+minimum_maximum_nights,489.0,,,,581.8650306748466,429.97292874187985,1.0,365.0,365.0,1125.0,1125.0
+maximum_maximum_nights,489.0,,,,596.1635991820041,422.6495925687065,4.0,365.0,365.0,1125.0,1125.0
+minimum_nights_avg_ntm,490.0,,,,8.583061224489798,28.451078429830652,1.0,1.0,2.0,5.0,365.0
+maximum_nights_avg_ntm,490.0,,,,587.7548979591837,426.5140959636797,4.0,365.0,365.0,1125.0,1125.0
+calendar_updated,0.0,,,,,,,,,,
+has_availability,485,1,t,485,,,,,,,
+availability_30,490.0,,,,14.075510204081633,11.051118082997482,0.0,0.0,14.5,25.0,30.0
+availability_60,490.0,,,,31.889795918367348,21.292972859838038,0.0,11.25,36.0,52.0,60.0
+availability_90,490.0,,,,54.416326530612245,30.099394628965136,0.0,32.0,62.0,80.0,90.0
+availability_365,490.0,,,,242.8938775510204,116.60068085712413,0.0,164.5,284.5,347.75,365.0
+calendar_last_scraped,490,2,2026-06-16,456,,,,,,,
+number_of_reviews,490.0,,,,59.27755102040816,112.19100945885624,0.0,2.0,15.0,66.0,996.0
+number_of_reviews_ltm,490.0,,,,13.03265306122449,18.93447303255337,0.0,1.0,5.0,17.0,116.0
+number_of_reviews_l30d,490.0,,,,0.9816326530612245,1.7877306757659934,0.0,0.0,0.0,1.0,13.0
+availability_eoy,490.0,,,,136.21632653061224,63.96070287325187,0.0,93.0,162.0,187.0,199.0
+number_of_reviews_ly,490.0,,,,12.210204081632654,19.392056064380373,0.0,0.0,3.0,16.75,126.0
+estimated_occupancy_l365d,490.0,,,,76.29591836734694,83.28321714087923,0.0,6.0,48.0,120.0,255.0
+estimated_revenue_l365d,458.0,,,,14465.146288209608,21340.23581668194,0.0,1012.0,5850.0,19125.0,149685.0
+first_review,430,371,2026-02-15,5,,,,,,,
+last_review,430,196,2026-05-17,26,,,,,,,
+review_scores_rating,430.0,,,,4.707186046511628,0.48805330232677674,1.0,4.67,4.86,4.97,5.0
+review_scores_accuracy,430.0,,,,4.745558139534883,0.4695924336288566,1.0,4.73,4.9,5.0,5.0
+review_scores_cleanliness,430.0,,,,4.73453488372093,0.4375569412874943,1.0,4.67,4.87,4.99,5.0
+review_scores_checkin,430.0,,,,4.80886046511628,0.414454851953111,1.0,4.8,4.9350000000000005,5.0,5.0
+review_scores_communication,430.0,,,,4.813627906976745,0.44340371472399787,1.0,4.83,4.96,5.0,5.0
+review_scores_location,430.0,,,,4.621651162790697,0.5009811531297218,1.0,4.5,4.78,4.93,5.0
+review_scores_value,430.0,,,,4.667790697674418,0.4913826199280393,1.0,4.63,4.805,4.9375,5.0
+license,0.0,,,,,,,,,,
+instant_bookable,0.0,,,,,,,,,,
+calculated_host_listings_count,490.0,,,,7.738775510204082,7.717210901668456,1.0,2.0,5.0,11.0,29.0
+calculated_host_listings_count_entire_homes,490.0,,,,5.469387755102041,7.478126360093045,0.0,1.0,2.0,7.0,29.0
+calculated_host_listings_count_private_rooms,490.0,,,,2.1244897959183673,4.296145160034978,0.0,0.0,0.0,2.0,17.0
+calculated_host_listings_count_shared_rooms,490.0,,,,0.012244897959183673,0.11008948407349409,0.0,0.0,0.0,0.0,1.0
+reviews_per_month,430.0,,,,1.7503953488372093,1.8511974533169409,0.04,0.37,1.185,2.4275,10.43
