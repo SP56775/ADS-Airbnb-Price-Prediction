@@ -1,0 +1,6 @@
+strategy,accuracy,equalized_odds_diff,demographic_parity_diff,MAE,R2
+Baseline (no mitigation),0.846,0.354,0.536,45.745,0.554
+Drop sensitive features,0.854,0.34,0.526,45.77,0.562
+Reweighing (pre-processing),0.852,0.268,0.475,46.521,0.554
+Group thresholds - equalized odds (post),0.771,0.118,0.274,45.745,0.554
+Group thresholds - demographic parity (post),0.719,0.266,0.02,45.745,0.554
